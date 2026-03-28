@@ -1,0 +1,3 @@
+PathSpectogramFolder:spectograms/
+OutputPath: output/results.txt
+OutputPathModels: output/models/
